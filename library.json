@@ -1,4 +1,3 @@
-```json
 {
     "name": "EspSoftwareSerial",
     "version": "8.2.0",
@@ -29,4 +28,3 @@
         "ghostl": "https://github.com/danowitz/ghostl"
     }
 }
-```
