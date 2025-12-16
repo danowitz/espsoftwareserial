@@ -1,3 +1,4 @@
+```json
 {
     "name": "EspSoftwareSerial",
     "version": "8.2.0",
@@ -25,6 +26,7 @@
     ],
     "dependencies":
     {
-        "danowitz/ghostl": "^1.0.0"
+        "ghostl": "https://github.com/danowitz/ghostl"
     }
 }
+```
